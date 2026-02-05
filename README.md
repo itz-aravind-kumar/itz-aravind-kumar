@@ -4,9 +4,8 @@ Focused on building **scalable systems**, writing **clean maintainable code**, a
 ---
 
 ## 🔗 Connect via
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/thanush-chowdary)
-[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:thanushgarimella@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/urstrulythanush)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-kumar-muddana-563641275/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:aravindk.muddana@gmail.com)
 
 ---
 
