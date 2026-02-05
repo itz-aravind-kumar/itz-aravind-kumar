@@ -1,17 +1,13 @@
 Agent Software Development Engineer with a strong foundation in **software engineering**, **backend & full-stack development**, and **analytical problem solving**.  
 Focused on building **scalable systems**, writing **clean maintainable code**, and understanding **engineering fundamentals deeply**.
 
----
 
 ## 🔗 Connect via
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-kumar-muddana-563641275/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:aravindk.muddana@gmail.com)
 
----
 
 ## 💻 Tech Stack
-
-### 🧠 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
