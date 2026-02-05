@@ -1,97 +1,39 @@
-# Hi 👋, I'm Aravind Kumar Muddana
-
-### Backend Engineer | System Design Enthusiast | Performance & Scalability Focused
-
-I’m a **backend-first software engineer** who loves building **real-world systems**, understanding **how things work internally**, and pushing for **performance, scalability, and clean architecture**.
-
-I don’t just use frameworks —  
-I study **what happens under the hood**.
+Agent Software Development Engineer with a strong foundation in **software engineering**, **backend & full-stack development**, and **analytical problem solving**.  
+Focused on building **scalable systems**, writing **clean maintainable code**, and understanding **engineering fundamentals deeply**.
 
 ---
 
-## 🧠 What I Focus On
-- ⚙️ High-performance backend systems (Spring Boot, Flask)
-- 🧩 System Design (scalable, fault-tolerant architectures)
-- 🚀 Deep internals: JVM, threading, event loops, async I/O
-- 📊 Databases, indexing, caching, search engines
-- 🧠 Strong DSA & pattern-based problem solving
+## 🔗 Connect via
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/thanush-chowdary)
+[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:thanushgarimella@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/urstrulythanush)
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
-### Backend
-- **Java**, Spring Boot, Hibernate, JPA
-- **Python**, Flask
-- REST APIs, Microservices
+**Languages & Core**
+- Java, Python, JavaScript
 
-### Databases & Storage
-- MySQL
-- Redis (caching, performance)
-- Elasticsearch (search & analytics)
-- MinIO / Object Storage (S3-style)
+**Backend & Frameworks**
+- Spring Boot, Flask, Django, Node.js, Express
+- REST APIs, Authentication (JWT)
 
-### Messaging & Streaming
-- Apache Kafka
+**Frontend**
+- React, Next.js, HTML, CSS, Tailwind, Bootstrap
 
-### Frontend (Working Knowledge)
-- React, HTML, CSS, JavaScript
+**Databases & Data**
+- MySQL, MongoDB, Microsoft SQL Server
+- Firebase
 
-### Tools & DevOps
-- Git & GitHub
-- Linux
-- JMeter (performance testing)
-- Docker (learning & usage)
+**DevOps & Tools**
+- Docker, Git, GitHub, GitHub Actions, Bitbucket
+- Postman, Jira
+- Cloud: Azure, Vercel, Netlify, Heroku
 
----
-
-## 📌 Featured Projects
-
-### 🏋️ Student Workout Tracking System
-**Flask | MySQL | Tkinter | Raspberry Pi**
-
-- Full-stack system to manage students, sessions & workouts
-- Full-screen Tkinter timer synced with real DB data
-- Session duplication, resume-from-crash, PDF workout summary
-- Designed for **offline-first Raspberry Pi environments**
-
-> Focus: real-world constraints, robustness, and UX
+**Data & ML (Working Knowledge)**
+- NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch
 
 ---
 
-### 🌐 MERN Projects (Authentication & Authorization)
-- Secure user authentication flows
-- Role-based access control
-- Clean backend architecture
-
----
-
-### 🔍 Search & Performance Experiments
-- Elasticsearch indexing & queries
-- Redis caching strategies
-- Load testing with JMeter
-- Studying bottlenecks & optimizations
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thanush-41&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanush-41&layout=compact)
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: *(add link here)*
-- 📧 Email: *(add email here)*
-
----
-
-## ⚡ Engineering Philosophy
-> “If I use a tool, I want to know **why it exists**,  
-> **how it works internally**,  
-> and **where it breaks**.”
-
----
-
-⭐ If you find my work interesting, feel free to explore my repositories!
+<!-- GitHub stats & activity will be added later -->
